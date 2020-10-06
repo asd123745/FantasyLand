@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 117576823}
   m_Layer: 0
   m_Name: point (5)
-  m_TagString: Untagged
+  m_TagString: WAY_POINT
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -193,7 +193,7 @@ GameObject:
   - component: {fileID: 266888888}
   m_Layer: 0
   m_Name: point (8)
-  m_TagString: Untagged
+  m_TagString: WAY_POINT
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -350,7 +350,7 @@ GameObject:
   - component: {fileID: 396644409}
   m_Layer: 0
   m_Name: point (2)
-  m_TagString: Untagged
+  m_TagString: WAY_POINT
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -449,7 +449,7 @@ GameObject:
   - component: {fileID: 512328641}
   m_Layer: 0
   m_Name: point (9)
-  m_TagString: Untagged
+  m_TagString: WAY_POINT
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -599,7 +599,7 @@ GameObject:
   - component: {fileID: 812378855}
   m_Layer: 0
   m_Name: point (1)
-  m_TagString: Untagged
+  m_TagString: WAY_POINT
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -741,7 +741,7 @@ GameObject:
   - component: {fileID: 1138948910}
   m_Layer: 0
   m_Name: point (4)
-  m_TagString: Untagged
+  m_TagString: WAY_POINT
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -800,7 +800,7 @@ GameObject:
   - component: {fileID: 1280488610}
   m_Layer: 0
   m_Name: point (7)
-  m_TagString: Untagged
+  m_TagString: WAY_POINT
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1099,7 +1099,7 @@ GameObject:
   - component: {fileID: 1652685285}
   m_Layer: 0
   m_Name: point (6)
-  m_TagString: Untagged
+  m_TagString: WAY_POINT
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1158,7 +1158,7 @@ GameObject:
   - component: {fileID: 1734466381}
   m_Layer: 0
   m_Name: point (3)
-  m_TagString: Untagged
+  m_TagString: WAY_POINT
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

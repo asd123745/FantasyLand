@@ -12,7 +12,7 @@ public class MoveCtrl : MonoBehaviour
     GEAR_VR
     }
     public MoveType moveType = MoveType.WAY_POINT;
-    public float speed = 1.0f;
+    public float speed = 3.0f;
     public float damping  = 3.0f;
     // Start is called before the first frame update
     public Transform[] points;
